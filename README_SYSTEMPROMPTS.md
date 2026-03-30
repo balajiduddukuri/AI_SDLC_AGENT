@@ -294,7 +294,7 @@ If your environment also uses related LangChain packages, install them as needed
 Run the script:
 
 ```bash
-python main.py
+python <>.py
 ```
 
 The program will:
