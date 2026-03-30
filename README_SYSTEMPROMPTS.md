@@ -111,10 +111,10 @@ If your environment also uses LangChain-related packages, install them according
 
 ## How to Run
 
-Save the program as `main.py`, then execute:
+Save the program as `<>.py`, then execute:
 
 ```bash
-python main.py
+python <>.py
 ```
 
 The script will:
